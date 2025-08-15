@@ -3,7 +3,6 @@
 =======
 
 ## **Task 1: File Creation Task**
->>>>>>> 8999e71ef1e855ebe8e065e5cb9dae1ef7033cd7
 
 **Description:**  
 - Created a folder `my_folder` and navigated into it.  
@@ -14,4 +13,3 @@
 <<<<<<< HEAD
 =======
 - Used Git to push all files to GitHub.
->>>>>>> 8999e71ef1e855ebe8e065e5cb9dae1ef7033cd7
